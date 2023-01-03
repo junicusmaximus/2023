@@ -1,6 +1,5 @@
 ## Mostly Diffusion related stuff 
 
------------------------------------------
 
 Updated Schedule: 
 
