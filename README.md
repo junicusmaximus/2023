@@ -9,4 +9,6 @@ Updated Schedule:
 
 1/17 - New Years Break
 
-2/7 - simple diffusion: End-to-end diffusion for high resolution images
+2/7 - InstructPix2Pix: Learning to Follow Image Editing Instructions
+
+2/14 - simple diffusion: End-to-end diffusion for high resolution images
