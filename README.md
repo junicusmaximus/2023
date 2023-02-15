@@ -12,3 +12,5 @@ Updated Schedule:
 2/7 - InstructPix2Pix: Learning to Follow Image Editing Instructions
 
 2/14 - simple diffusion: End-to-end diffusion for high resolution images
+
+2/21 - SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
