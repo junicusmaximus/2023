@@ -15,4 +15,4 @@ Updated Schedule:
 
 2/21 - SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
 
-2/27 - Prompt-to-Prompt Image Editing with Cross Attention Control
+2/28 - Prompt-to-Prompt Image Editing with Cross Attention Control
